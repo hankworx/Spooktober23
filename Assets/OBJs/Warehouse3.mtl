@@ -1,0 +1,85 @@
+# Wavefront MTL
+# Created by fragMOTION 1.3.6
+# http://www.fragmosoft.com
+
+newmtl warehouse3d
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0.898039 0.898039 0.898039
+ke 0 0 0
+ns 10
+map_kd warehouse3d.dds
+newmtl warehouse3a_D
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0.898039 0.898039 0.898039
+ke 0 0 0
+ns 10
+map_kd warehouse3a_D.dds
+newmtl warehouse3e_D
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0.898039 0.898039 0.898039
+ke 0 0 0
+ns 10
+map_kd warehouse3e_D.DDS
+newmtl warehouse3f_D
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0.898039 0.898039 0.898039
+ke 0 0 0
+ns 10
+map_kd warehouse3f_D.dds
+newmtl warehouse4h_D
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0.898039 0.898039 0.898039
+ke 0 0 0
+ns 10
+map_kd warehouse4h_D.dds
+newmtl warehouse3g_D
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0.898039 0.898039 0.898039
+ke 0 0 0
+ns 10
+map_kd warehouse3g_D.dds
+newmtl warehouse3c_D
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0.898039 0.898039 0.898039
+ke 0 0 0
+ns 10
+map_kd warehouse3c_D.dds
+newmtl warehouse3b_D
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0.898039 0.898039 0.898039
+ke 0 0 0
+ns 10
+map_kd warehouse3b_D.dds
+newmtl warehouse3b_D1
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 40
+map_kd warehouse3b_D.dds
